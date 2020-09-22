@@ -116,11 +116,11 @@ module.exports = config;
 if you clone this repository to local, just `npm install` and `npm start`.
 
 ---
-I used react framework : Material-Ui
-I used get fetch for retrieving the data to show from provided json file.
-I added link Cors https://cors-anywhere.herokuapp.com as prefix for links to fetch data.
-All necessary operations(convertEuro,sort,...) are in 'accountOperation.js' file.
-I created two components for our project's user interface.
+* I used react framework : Material-Ui
+* I used get fetch for retrieving the data to show from provided json file.
+* I added link Cors https://cors-anywhere.herokuapp.com as prefix for links to fetch data.
+* All necessary operations(convertEuro,sort,...) are in 'accountOperation.js' file.
+* I created two components for our project's user interface.
 
 
 

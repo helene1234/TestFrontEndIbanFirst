@@ -1,0 +1,20 @@
+{
+    "status": 0,
+    "date": "2016-01-01 00:00:00",
+    "errorMessage": "string",
+    "rates": [{
+      "instrument": "USD",
+      "rate": 0.851218,
+      "date": "2016-01-01 00:00:00"
+    },
+    {
+        "instrument": "GBP",
+        "rate": 1.089,
+        "date": "2016-01-01 00:00:00"
+      },
+      {
+        "instrument": "CHF",
+        "rate": 0.929,
+        "date": "2016-01-01 00:00:00"
+      }]
+  }
